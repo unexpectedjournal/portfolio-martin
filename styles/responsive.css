@@ -106,11 +106,6 @@
         gap: 1rem;
     }
 
-    /* Contact Section */
-    .contact {
-        margin: 1rem 1rem 1rem;
-    }
-
     /* Footer Section */
     footer {
         padding: 2rem 0;
@@ -126,6 +121,11 @@
 
     .pre-title {
         font-size: 0.7rem;
+    }
+
+    /* Contact Section */
+    .contact {
+        margin: 0 auto 0 1.5rem;
     }
 
 }
