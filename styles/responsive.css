@@ -101,9 +101,14 @@
         margin-bottom: .5rem;
     }
 
-    /* Skill Sectoion */
+    /* Skill Section */
     .skill-grid {
         gap: 1rem;
+    }
+
+    /* Contact Section */
+    .contact {
+        margin: 1rem 1rem 1rem;
     }
 
     /* Footer Section */
